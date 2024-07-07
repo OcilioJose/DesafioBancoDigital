@@ -1,4 +1,5 @@
 # Desafio implementando um Banco Digital
 
-Segue implementação do banco digital, com os quartos pilares da orientação a objeto.
+Segue implementação do banco digital, com os quartos pilares da orientação a objeto
+e tambem utilizando lombok.
 
